@@ -7,6 +7,7 @@ https://www.transmissionzero.co.uk/software/freeglut-devel/
 執行bat檔
 
 遊戲說明
+
 方向鍵↑↓←→控制板子移動
 
 z : 球的移動速度增加50%
