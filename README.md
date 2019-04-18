@@ -7,6 +7,7 @@ https://www.transmissionzero.co.uk/software/freeglut-devel/
 執行bat檔
 
 ![](https://i.imgur.com/L0Rn0pX.png)
+
 遊戲說明
 
     方向鍵↑↓←→控制板子移動
